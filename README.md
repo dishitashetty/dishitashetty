@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dishitashetty
+- 👀 I’m interested in film, dance, and, of course, coding!
+- 🌱 I’m pretty new to CS and am currently learning about the different data strucutres C++ has to offer :)
+- 💞️ I’m working on making a website for myself, and am hoping to learn HTML through that
+- 📫 You can reach me at dishitashetty@gmail.com, or @dishita_shetty_ on instagram <3
