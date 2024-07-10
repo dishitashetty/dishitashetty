@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @dishitashetty
 - 👀 I’m interested in film, dance, and, of course, coding!
-- 🌱 I’m working on making a website for myself, and a website that recommends movies based on criteria
+- 🌱 I’m working on a couple projects right now
 - 📫 You can reach me at dishita@umich.edu, or @dishita_shetty_ on instagram <3
